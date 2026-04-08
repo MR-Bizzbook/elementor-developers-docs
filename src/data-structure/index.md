@@ -47,3 +47,9 @@ Special cases:
 * [Responsive Data](./responsive-data/)
 * [Repeaters](./repeaters/)
 * [Global Styles](./global-styles/)
+
+## Consolidated Standards Map
+
+For a single-file inventory of all Elementor docs standards and references, see:
+
+* [Standards Map](./standards-map/)
